@@ -8,10 +8,10 @@ submissiontype: IAB
 date:
 v: 3
 venue:
-  group: IAB
-  type: IAB
-  mail: iab@iab.org
-  github: USER/REPO
+  group: "Internet Architecture Board"
+  type: "Internet Engineering Task Force"
+  mail: "iab@iab.org"
+  github: "intarchboard/draft-tab-rfc4052bis"
 
 author:
  -
