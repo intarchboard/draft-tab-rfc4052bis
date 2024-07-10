@@ -3,7 +3,7 @@ title: "IAB Processes for Management of IETF Liaison Relationships"
 abbrev: "IAB Liaison Management "
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-krishnan-iab-rfc4052bis-latest
 submissiontype: IAB
 date:
 v: 3
